@@ -11,7 +11,7 @@ body {
   width: 380px;
   border: 2px solid black;
   border-radius: 8px;
-  background-color: aquamarine;
+  background-color: rgba(99, 227, 233, 0.992);
 }
 form {
   display: flex;
@@ -51,4 +51,8 @@ p {
   border-radius: 8px;
   padding: 10px;
   margin-bottom: 10px;
+}
+a:hover {
+  color: black;
+  background-color: red;
 }
